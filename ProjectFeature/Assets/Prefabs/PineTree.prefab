@@ -1,0 +1,3408 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5253189103741854356
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8019901527142629245}
+  m_Layer: 0
+  m_Name: PineTree
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8019901527142629245
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5253189103741854356}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2794583066216553353}
+  - {fileID: 8202725923275326437}
+  - {fileID: 1370375184904646611}
+  - {fileID: 2231801824383476847}
+  - {fileID: 7632458057535238754}
+  - {fileID: 8252753235114929765}
+  - {fileID: 750415926232469907}
+  - {fileID: 5386005349372390961}
+  - {fileID: 8557196813943986465}
+  - {fileID: 4751752620225009077}
+  - {fileID: 2714114079750830949}
+  - {fileID: 4181738092232276778}
+  - {fileID: 4112886100656110474}
+  - {fileID: 4420732844463863411}
+  - {fileID: 7740420142628112855}
+  - {fileID: 5833787009565170147}
+  - {fileID: 323467634347613360}
+  - {fileID: 3147344792723611326}
+  - {fileID: 6508500165200246732}
+  - {fileID: 4350724428594264205}
+  - {fileID: 675905076275041186}
+  - {fileID: 1921157942003523376}
+  - {fileID: 7331066188834332109}
+  - {fileID: 7927441074825637704}
+  - {fileID: 2501757802739983256}
+  - {fileID: 6866519306382829923}
+  - {fileID: 8222407892449914449}
+  - {fileID: 2781310469990822179}
+  - {fileID: 1549608986982087918}
+  - {fileID: 7100863378847459973}
+  - {fileID: 3885187176803646008}
+  - {fileID: 8926886122366274010}
+  - {fileID: 330311141301190699}
+  - {fileID: 1799215750767701869}
+  - {fileID: 3369457902109264887}
+  - {fileID: 1154955083196727213}
+  - {fileID: 501088739359391191}
+  - {fileID: 5413802651953940554}
+  - {fileID: 7125454255321350378}
+  - {fileID: 391167282387539373}
+  - {fileID: 90538042374629900}
+  - {fileID: 1329198771229148323}
+  - {fileID: 3078618531513952751}
+  - {fileID: 1516780726909421334}
+  - {fileID: 6371582280575847648}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &510782827004775151
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &4751752620225009077 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 510782827004775151}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &992629508978644752
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &5413802651953940554 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 992629508978644752}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1030916403054068919
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &5386005349372390961 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 1030916403054068919}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1590599644622997177
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &5833787009565170147 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 1590599644622997177}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1850400548234802745
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &6866519306382829923 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 1850400548234802745}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2068808066675157142
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &6508500165200246732 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 2068808066675157142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2200958121526154170
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &6371582280575847648 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 2200958121526154170}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2547377435900281495
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &7331066188834332109 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 2547377435900281495}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2595627510596100016
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &7125454255321350378 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 2595627510596100016}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2624580493294581215
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &7100863378847459973 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 2624580493294581215}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2946719975616081938
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &7927441074825637704 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 2946719975616081938}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3250352633070491876
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &7632458057535238754 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 3250352633070491876}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3282077979954828941
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &7740420142628112855 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 3282077979954828941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3469586703940454011
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &8557196813943986465 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 3469586703940454011}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3818186045597298955
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &8222407892449914449 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 3818186045597298955}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3829622716154931555
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &8202725923275326437 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 3829622716154931555}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3924826611767280867
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &8252753235114929765 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 3924826611767280867}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4397092353517016704
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &8926886122366274010 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 4397092353517016704}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4617049568679338637
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &501088739359391191 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 4617049568679338637}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4788091289510535025
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &330311141301190699 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 4788091289510535025}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4799156646168642538
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &323467634347613360 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 4799156646168642538}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4866846388979272439
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &391167282387539373 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 4866846388979272439}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5162972686494758230
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &90538042374629900 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 5162972686494758230}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5663946247924972309
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &750415926232469907 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 5663946247924972309}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5730403393893534968
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &675905076275041186 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 5730403393893534968}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6009603704844952500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &1549608986982087918 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 6009603704844952500}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6047076026619402316
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &1516780726909421334 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 6047076026619402316}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6094905961909689337
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &1329198771229148323 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 6094905961909689337}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6260018961183580407
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &1154955083196727213 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 6260018961183580407}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6337953005699646805
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &1370375184904646611 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 6337953005699646805}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6487595495000280809
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &2231801824383476847 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 6487595495000280809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6651365211510669418
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &1921157942003523376 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 6651365211510669418}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6782190838223843383
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &1799215750767701869 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 6782190838223843383}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6953000035111333497
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &2781310469990822179 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 6953000035111333497}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7077468574292406543
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4142150042757618474, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_Name
+      value: PineWoodBlock
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 09b4619df86dbcd4bae19fb87c4e5243, type: 3}
+--- !u!4 &2794583066216553353 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4967578508795095686, guid: 09b4619df86dbcd4bae19fb87c4e5243,
+    type: 3}
+  m_PrefabInstance: {fileID: 7077468574292406543}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7155463289375908927
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &2714114079750830949 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 7155463289375908927}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7232553282786737346
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &2501757802739983256 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 7232553282786737346}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7504562200324691117
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &3369457902109264887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 7504562200324691117}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7808754314467653301
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &3078618531513952751 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 7808754314467653301}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7875294891511710180
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &3147344792723611326 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 7875294891511710180}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8290496569468183906
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &3885187176803646008 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 8290496569468183906}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8829262275032377303
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &4350724428594264205 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 8829262275032377303}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8916756224077064489
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &4420732844463863411 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 8916756224077064489}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9002611203017483376
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &4181738092232276778 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 9002611203017483376}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9220240135877682384
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8019901527142629245}
+    m_Modifications:
+    - target: {fileID: 4266521909157312089, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_Name
+      value: PineLeavesBlock (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eabc27301982ba9419c247254cfd8c21, type: 3}
+--- !u!4 &4112886100656110474 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5109113408619700058, guid: eabc27301982ba9419c247254cfd8c21,
+    type: 3}
+  m_PrefabInstance: {fileID: 9220240135877682384}
+  m_PrefabAsset: {fileID: 0}

@@ -4,29 +4,42 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    private Rigidbody rb;
     private PlayerControls playerControls;
-    private Vector3 position;
     private float moveSpeed = 3f;
+
 
     void Start()
     {
+        // Turn gravity off for now, but I may want it on later
+        rb = GetComponent<Rigidbody>();
+        rb.useGravity = false;
+
         playerControls = new PlayerControls();
         playerControls.Enable();
-        position = transform.position;
-
-        // Turn gravity off for now, but I may want it on later
-        GetComponent<Rigidbody>().useGravity = false;
     }
 
     
-    void Update()
+    void FixedUpdate()
     {
         Vector3 moveVector = playerControls.PlayerMovement.Fly.ReadValue<Vector3>();
+        rb.MovePosition(rb.position + moveVector * moveSpeed * Time.fixedDeltaTime);
+    }
 
-        position.x += moveVector.x * moveSpeed * Time.deltaTime;
-        position.y += moveVector.y * moveSpeed * Time.deltaTime;
-        position.z += moveVector.z * moveSpeed * Time.deltaTime;
 
-        transform.position = position;
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.collider.gameObject.tag == "Terrain")
+        {
+            print("Player collided with terrain!");
+        }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "Water")
+        {
+            print("Player is standing in water!");
+        }
     }
 }
