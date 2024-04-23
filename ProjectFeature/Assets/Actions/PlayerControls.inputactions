@@ -6,10 +6,28 @@
             "id": "23d01f6e-50fd-4d02-a132-935da00359ed",
             "actions": [
                 {
-                    "name": "Walk",
+                    "name": "Move",
+                    "type": "PassThrough",
+                    "id": "9d74c4c9-bd6f-4ce1-8087-2fbbd9a14692",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "MoveFast",
                     "type": "Button",
-                    "id": "f19a526d-dc5f-4ce5-8bd2-54bc5d8f2cbc",
+                    "id": "4760e25b-f2e0-4ca9-b734-11ca0631e217",
                     "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press,Press(behavior=1)",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Rotate",
+                    "type": "PassThrough",
+                    "id": "8427c819-e7de-4e70-88c3-99ef3bf304fd",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -24,19 +42,10 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Swim",
+                    "name": "FlightMode",
                     "type": "Button",
-                    "id": "b309812f-dd19-47eb-a568-edac420dafbd",
+                    "id": "fa65247e-5104-43ff-acd3-63809afed102",
                     "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
-                    "name": "Fly",
-                    "type": "PassThrough",
-                    "id": "9d74c4c9-bd6f-4ce1-8087-2fbbd9a14692",
-                    "expectedControlType": "Vector3",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -45,36 +54,69 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "49b498db-c4d7-437b-9e99-0a60f7b45b06",
-                    "path": "",
+                    "id": "19cf47f2-98a2-48e0-9058-3386040416c2",
+                    "path": "<Keyboard>/tab",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Walk",
+                    "action": "FlightMode",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "",
-                    "id": "547acb06-9b52-457b-9eda-16e4b40681de",
-                    "path": "",
+                    "name": "2D Vector",
+                    "id": "951c8b4b-8dff-4870-9abb-9f4192f24047",
+                    "path": "2DVector",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Jump",
-                    "isComposite": false,
+                    "action": "Rotate",
+                    "isComposite": true,
                     "isPartOfComposite": false
                 },
                 {
-                    "name": "",
-                    "id": "d6a04424-ba0f-4893-bbe7-3f47b9481560",
-                    "path": "",
+                    "name": "up",
+                    "id": "e1f09d07-4187-4bf8-bb6b-7ee2a1d0b6a7",
+                    "path": "<Mouse>/delta/up",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Swim",
+                    "action": "Rotate",
                     "isComposite": false,
-                    "isPartOfComposite": false
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "79782649-0a94-4353-ba20-ba21e6f737f7",
+                    "path": "<Mouse>/delta/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "23f75987-4b35-4a74-93f9-efea5b3481e1",
+                    "path": "<Mouse>/delta/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "38d7807d-cbb0-4fe7-ad16-86398cb3252c",
+                    "path": "<Mouse>/delta/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": true
                 },
                 {
                     "name": "3D Vector",
@@ -83,7 +125,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fly",
+                    "action": "Move",
                     "isComposite": true,
                     "isPartOfComposite": false
                 },
@@ -94,7 +136,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fly",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -105,7 +147,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fly",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -116,7 +158,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fly",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -127,7 +169,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fly",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -138,7 +180,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fly",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -149,9 +191,31 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Fly",
+                    "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "1fb8bb23-e13c-43de-a5f3-50c161c2d83d",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4da07767-bc3b-4e92-83ef-75aef26a0d05",
+                    "path": "<Keyboard>/shift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveFast",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
